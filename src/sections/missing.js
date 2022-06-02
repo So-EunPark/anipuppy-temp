@@ -1,5 +1,7 @@
 import React from "react";
 import iphone from "../resources/images/iphone.png";
+import screenshot1_1 from "../resources/images/screenshot1_1.png";
+import screenshot1_2 from "../resources/images/screenshot1_2.png";
 
 const Missing = () => {
   {
@@ -18,14 +20,16 @@ const Missing = () => {
         </div>
         <div className="img_container">
           <div className=" description">
-            <div className="screenshot">image</div>
+            {/* <div className="screenshot">image</div> */}
+            <img className="screenshot" src={screenshot1_1} alt="" />
             <p className="subtitle">
               비문등록과 함께, 내 반려동물에 관한 정보들을 <br />
               상세하게 기록해서 유기 유실을 방지해요
             </p>
           </div>
           <div className=" description right_pic">
-            <div className="screenshot">image</div>
+            {/* <div className="screenshot">image</div> */}
+            <img className="screenshot" src={screenshot1_2} alt="" />
             <p className="subtitle">
               기존의 동물 등록번호와 함께 연동이 가능해요
             </p>

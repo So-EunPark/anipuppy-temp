@@ -1,5 +1,7 @@
 import React from "react";
 import iphone from "../resources/images/iphone.png";
+import screenshot2_1 from "../resources/images/screenshot2_1.png";
+import screenshot2_2 from "../resources/images/screenshot2_2.png";
 
 const Three = () => {
   return (
@@ -13,7 +15,8 @@ const Three = () => {
           </h1>
         </div>
         <div className="description">
-          <div className="screenshot">image</div>
+          {/* <div className="screenshot">image</div> */}
+          <img className="screenshot" src={screenshot2_1} alt="" />
           <p className="subtitle">
             비문이 등록된 강아지라면?
             <br />
@@ -21,7 +24,8 @@ const Three = () => {
           </p>
         </div>
         <div className=" description right_pic">
-          <div className="screenshot">image</div>
+          {/* <div className="screenshot">image</div> */}
+          <img className="screenshot" src={screenshot2_2} alt="" />
           <p className="subtitle">
             비문이 등록되지 않았다 하더라도,
             <br />
