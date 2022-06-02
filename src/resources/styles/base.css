@@ -1,0 +1,224 @@
+@font-face{
+  font-family: "Cafe24Ssurround"; 
+	src: url("../font/Cafe24Ssurround.ttf");  
+}
+@font-face{
+  font-family: "Cafe24SsurroundAir"; 
+	src: url("../font/Cafe24SsurroundAir.ttf");
+}
+
+@font-face{
+  font-family: "MinSans-Light"; 
+	src: url("../font/MinSans-Light.otf");  
+}
+@font-face{
+  font-family: "MinSans-Medium"; 
+	src: url("../font/MinSans-Medium.otf");  
+}
+@font-face{
+  font-family: "MinSans-Regular"; 
+	src: url("../font/MinSans-Regular.otf");  
+}
+
+@font-face {
+  /* 사용할 폰트의 이름 */
+  font-family: "NotoSans";
+  font-display: fallback;
+
+  /* 
+  src: 사용할 폰트의 위치 및 형식 
+     Safari, Android, iOS => ttf
+     Modern Browsers => woff
+     IE6-IE8 => eot
+  */
+  src: url("../font/NotoSansKR-Bold.eot?iefix") format("embedded-opentype"),
+      url("../font/NotoSansKR-Black.eot?iefix") format("embedded-opentype"), 
+    url("../font/NotoSansKR-Light.eot?iefix") format("embedded-opentype"),
+      url("../font/NotoSansKR-Medium.eot?iefix") format("embedded-opentype"),
+      url("../font/NotoSansKR-Regular.eot?iefix") format("embedded-opentype"),
+      url("../font/NotoSansKR-Thin.eot?iefix") format("embedded-opentype");
+
+  /* 사용할 폰트의 기본 스타일 */
+  font-weight: 400;
+  font-style: normal;
+}
+
+*{
+  /* font-family: "Cafe24SsurroundAir"; */
+}
+html,
+body {
+  font-size: 10px;
+  width: 100%;
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+  font-weight: 300;
+  overflow-x: hidden;
+  color: #000;
+  letter-spacing: -0.025em;
+  line-height: normal;
+  word-wrap: break-word;
+  background-color: #fff;
+  -webkit-text-size-adjust: none;
+  text-size-adjust: none;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+header,
+footer,
+nav,
+article,
+aside,
+hgroup,
+section,
+figure,
+div,
+p,
+ul,
+li,
+ol {
+  display: block;
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+dl,
+th,
+td,
+dt,
+dd,
+em,
+span,
+strong,
+fieldset,
+label,
+a {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 1em;
+}
+
+a {
+  font-weight: 300;
+  color: #000;
+  text-indent: 0;
+  text-decoration: none;
+}
+
+ul,
+ol,
+li {
+  list-style: none;
+}
+
+fieldset {
+  border: none;
+}
+
+legend,
+caption {
+  overflow: hidden;
+  width: 0;
+  height: 0;
+  margin: 0;
+  padding: 0;
+  font-size: 0;
+  line-height: 0;
+  color: transparent;
+  border: 0;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 1rem;
+  table-layout: fixed;
+}
+
+table td,
+table th {
+  padding: 0;
+}
+
+button {
+  overflow: visible;
+  margin: 0;
+  padding: 0;
+  font-size: 1rem;
+  font-family: "Noto Sans KR";
+  text-align: center;
+  vertical-align: middle;
+  background: none;
+  border: none;
+  cursor: pointer;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+button span {
+  position: relative;
+  display: inline-block;
+}
+
+/* ir */
+.ir {
+  overflow: hidden;
+  width: 0;
+  height: 0;
+  margin: 0;
+  padding: 0;
+  font-size: 0;
+  line-height: 0;
+  color: transparent;
+  border: 0;
+  clip: rect(0 0 0 0);
+}
+
+/* 태블릿 */
+/* @media screen and (min-width:768px) and (max-width:1023px){
+  .body{
+    max-width: 1140px;
+    padding: 50px
+  }
+} */
+
+/* PC */
+@media screen and (min-width:768px){
+  .body{
+    max-width: 1140px;
+    padding: 50px
+  }
+}
+
+ /* mobile */
+@media screen and (max-width: 767px){
+    .body{
+        max-width: 100%;
+        padding: 20px;
+    }
+
+    html{
+        font-size: 8px;
+    }
+    
+}
