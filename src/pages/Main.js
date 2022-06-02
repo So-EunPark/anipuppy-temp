@@ -57,7 +57,7 @@ const Main = () => {
       <Three nowMediaQuery={nowMediaQuery} />
       <Four nowMediaQuery={nowMediaQuery} />
       <Five nowMediaQuery={nowMediaQuery} />
-      <Pic nowMediaQuery={nowMediaQuery} />
+      {/* <Pic nowMediaQuery={nowMediaQuery} /> */}
       <Footer nowMediaQuery={nowMediaQuery} />
 
       <div className="body"></div>
