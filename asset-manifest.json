@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "//so-eunpark.github.io/anipuppy-temp/static/css/main.6b66fcdd.css",
-    "main.js": "//so-eunpark.github.io/anipuppy-temp/static/js/main.e454831f.js",
+    "main.css": "//so-eunpark.github.io/anipuppy-temp/static/css/main.908fdbcf.css",
+    "main.js": "//so-eunpark.github.io/anipuppy-temp/static/js/main.93bfebd4.js",
     "static/js/787.c4e7f8f9.chunk.js": "//so-eunpark.github.io/anipuppy-temp/static/js/787.c4e7f8f9.chunk.js",
     "static/media/Cafe24SsurroundAir.ttf": "//so-eunpark.github.io/anipuppy-temp/static/media/Cafe24SsurroundAir.2477297bc14b8b2ed082.ttf",
     "static/media/MinSans-Light.otf": "//so-eunpark.github.io/anipuppy-temp/static/media/MinSans-Light.ba94390649a98864efbb.otf",
@@ -10,7 +10,7 @@
     "static/media/Cafe24Ssurround.ttf": "//so-eunpark.github.io/anipuppy-temp/static/media/Cafe24Ssurround.a5df3ce700ca6c98875c.ttf",
     "static/media/screenshot3_1.png": "//so-eunpark.github.io/anipuppy-temp/static/media/screenshot3_1.6fb222b07f549414c8e2.png",
     "static/media/screenshot1_1.png": "//so-eunpark.github.io/anipuppy-temp/static/media/screenshot1_1.1336599b851d6f59e08b.png",
-    "static/media/screenshot2_1.png": "//so-eunpark.github.io/anipuppy-temp/static/media/screenshot2_1.7c957b840d750b2ea7f4.png",
+    "static/media/screenshot2_1.png": "//so-eunpark.github.io/anipuppy-temp/static/media/screenshot2_1.a9f1af4ffb12a7f4adc8.png",
     "static/media/screenshot1_2.png": "//so-eunpark.github.io/anipuppy-temp/static/media/screenshot1_2.c6d7d295f9a95e8b1153.png",
     "static/media/screenshot2_2.png": "//so-eunpark.github.io/anipuppy-temp/static/media/screenshot2_2.42c120f09159947f5f08.png",
     "static/media/iphone.png": "//so-eunpark.github.io/anipuppy-temp/static/media/iphone.b2c022275694fd1e8150.png",
@@ -29,12 +29,12 @@
     "index.html": "//so-eunpark.github.io/anipuppy-temp/index.html",
     "static/media/youtube-brands.svg": "//so-eunpark.github.io/anipuppy-temp/static/media/youtube-brands.87350b41a36870581ed6bbca31d713b0.svg",
     "static/media/facebook-square-brands.svg": "//so-eunpark.github.io/anipuppy-temp/static/media/facebook-square-brands.72e5206145c3fa1edce96f48d492db0b.svg",
-    "main.6b66fcdd.css.map": "//so-eunpark.github.io/anipuppy-temp/static/css/main.6b66fcdd.css.map",
-    "main.e454831f.js.map": "//so-eunpark.github.io/anipuppy-temp/static/js/main.e454831f.js.map",
+    "main.908fdbcf.css.map": "//so-eunpark.github.io/anipuppy-temp/static/css/main.908fdbcf.css.map",
+    "main.93bfebd4.js.map": "//so-eunpark.github.io/anipuppy-temp/static/js/main.93bfebd4.js.map",
     "787.c4e7f8f9.chunk.js.map": "//so-eunpark.github.io/anipuppy-temp/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b66fcdd.css",
-    "static/js/main.e454831f.js"
+    "static/css/main.908fdbcf.css",
+    "static/js/main.93bfebd4.js"
   ]
 }
