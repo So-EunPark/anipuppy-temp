@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/anipuppy-temp/static/css/main.99aedd6d.css",
+    "main.css": "/anipuppy-temp/static/css/main.f2a01717.css",
     "main.js": "/anipuppy-temp/static/js/main.c282666c.js",
     "static/js/787.c4e7f8f9.chunk.js": "/anipuppy-temp/static/js/787.c4e7f8f9.chunk.js",
     "static/media/Cafe24SsurroundAir.ttf": "/anipuppy-temp/static/media/Cafe24SsurroundAir.2477297bc14b8b2ed082.ttf",
@@ -29,12 +29,12 @@
     "index.html": "/anipuppy-temp/index.html",
     "static/media/youtube-brands.svg": "/anipuppy-temp/static/media/youtube-brands.87350b41a36870581ed6bbca31d713b0.svg",
     "static/media/facebook-square-brands.svg": "/anipuppy-temp/static/media/facebook-square-brands.72e5206145c3fa1edce96f48d492db0b.svg",
-    "main.99aedd6d.css.map": "/anipuppy-temp/static/css/main.99aedd6d.css.map",
+    "main.f2a01717.css.map": "/anipuppy-temp/static/css/main.f2a01717.css.map",
     "main.c282666c.js.map": "/anipuppy-temp/static/js/main.c282666c.js.map",
     "787.c4e7f8f9.chunk.js.map": "/anipuppy-temp/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.99aedd6d.css",
+    "static/css/main.f2a01717.css",
     "static/js/main.c282666c.js"
   ]
 }
